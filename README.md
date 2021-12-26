@@ -121,4 +121,12 @@ NumPy has taken the data that was displayed horizontally and has it organized in
 
 doing rest of notes in Jupyter
 
-stopped at Linespace at 6:52
+        ?? In this lesson at 10:22 it says to input 'np.random.' then press 'tab' to see a list of options. No list of options shows up for me as it does on the lesson.
+        Also at 10:43 the lesson has 'np.random.rand'  in the input. Im instructed that if I want details about what the function does I can press 'shift + tab'  in jupyter or call help on the function.  Nothing happens when I press 'shift + tab' with the function selected, and no option comes up to call help.
+
+        ** my import statement hadent been called
+
+        - now when I type 'np.random.' and press tab I get a list of np options
+        - also if I type out an option like so 'np.random.rand' and press 'shift + tab' I can see a description of the method
+
+\*\* still need to finish note takeing on this lesson
