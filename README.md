@@ -138,3 +138,15 @@ doing rest of notes in Jupyter
 14. NumPy Operations
 
 notes in jupyter
+
+15. NumPy Exercise Overview good chance to test what we have learned so far
+
+16. NumPy Exercise Solutions should be good review
+
+# Sec 4 Core Pandas
+
+17.   Introduction to Core Pandas Topics
+
+18.   Pandas Series - Part One
+
+          notes in jupyter
