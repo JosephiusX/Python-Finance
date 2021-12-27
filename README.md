@@ -130,3 +130,11 @@ doing rest of notes in Jupyter
         - also if I type out an option like so 'np.random.rand' and press 'shift + tab' I can see a description of the method
 
 \*\* still need to finish note takeing on this lesson
+
+13. NumPy Indexing and Selection
+
+\*\*
+
+14. NumPy Operations
+
+notes in jupyter
