@@ -150,3 +150,9 @@ notes in jupyter
 18.   Pandas Series - Part One
 
           notes in jupyter
+
+19.                notes in jupyter
+
+20.   Pandas DataFrames - Part One - Creating a DataFrame
+
+we can combine 3 series sharing the same index into a single data frame with the same index with multiple columns 13:38 in
